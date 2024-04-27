@@ -1,0 +1,1 @@
+El login de administrador no fue integrado, por lo que al acceder a la carpeta de adminpanel en la url tienes que ponerle que te lleve al home.php, no al index.php donde esta el login, de ahí en fuera no hay otro inconveniente
